@@ -20,18 +20,23 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
     <PreferenceScreen
+        android:key="status_bar"
+        android:fragment="com.android.settings.slim.StatusBar"
+        android:title="@string/status_bar_title" />
+    
+    <PreferenceScreen
         android:fragment="com.android.settings.slim.BatteryIconStyle"
         android:key="battery_style_pref"
         android:title="@string/battery_icon_title" />
-
+        
+    <header
+        android:key="navigation_settings"
+        android:fragment="com.android.settings.slim.NavigationSettings"
+        android:title="@string/navigation_settings_title" />
+    
     <PreferenceScreen
         android:key="notification_drawer_qs"
         android:fragment="com.android.settings.slim.NotificationDrawerQsSettings"
         android:title="@string/notification_drawer_qs_title" />
-
-    <PreferenceScreen
-        android:key="status_bar"
-        android:fragment="com.android.settings.slim.StatusBar"
-        android:title="@string/status_bar_title" />
 
 </PreferenceScreen>

@@ -33,7 +33,6 @@
     <!-- Slim settings screens -->
     <string name="interface_settings_title">Interface</string>
     <string name="navigation_settings_title">Navigation</string>
-    <string name="slim_center_title">SlimCenter</string>
     <!-- Advanced, Device specific (DeviceParts) settings  -->
     <string name="device_settings_title">Device</string>
 
@@ -50,7 +49,7 @@
     <string name="set">Set</string>
 
     <!-- About phone screen, slim version -->
-    <string name="slim_version_title">Slim version</string>
+    <string name="slim_version_title">Evolution version</string>
     <string name="slim_version_default">Unknown</string>
 
     <!-- Display settings screen, notification light settings -->
@@ -754,7 +753,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="lockscreen_style_reset_message">Reset all lockscreen colors?</string>
     <string name="lockscreen_icon_title">Lock handle icon</string>
     <string name="lockscreen_lock_icon_custom">Custom icon</string>
-    <string name="lockscreen_lock_icon_slim">Slim icon</string>
+    <string name="lockscreen_lock_icon_slim">Evolution icon</string>
     <string name="lockscreen_lock_icon_default">Default icon</string>
     <string name="lockscreen_colorize_handle_title">Colorize custom handle</string>
     <string name="lockscreen_colorize_handle_summary">Lock color will be set to the lock handle</string>
@@ -982,7 +981,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="stylus_icon_enabled_summary">Show the pointer icon while using stylus</string>
 
     <!-- Themes -->
-    <string name="theme_settings_title">The real dark slim</string>
+    <string name="theme_settings_title">Dark evolution</string>
     <string name="theme_auto_mode_title">Switch theme</string>
     <string name="theme_auto_mode_off">Manual</string>
     <string name="theme_auto_mode_lightsensor">On light condition change</string>
@@ -1118,7 +1117,7 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="usb_mass_storage_summary">Enable USB mass storage</string>
 
     <!-- Pie Control -->
-    <string name="pie_control_title">SlimPIE</string>
+    <string name="pie_control_title">EvoPIE</string>
     <string name="pie_control_summary">Enable pie controls</string>
     <string name="pie_control_size">Navigation size</string>
     <string name="pie_control_trigger_positions">Trigger options</string>
