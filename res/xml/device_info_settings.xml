@@ -129,8 +129,8 @@
                 android:title="@string/mem_info"
                 android:summary="@string/device_info_default"/>
 
-        <!-- Slim version -->
-        <Preference android:key="slim_version"
+        <!-- Evolution version -->
+        <Preference android:key="evolution_version"
                 style="?android:preferenceInformationStyle"
                 android:title="@string/slim_version_title"
                 android:summary="@string/slim_version_default"/>
