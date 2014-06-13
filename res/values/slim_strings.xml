@@ -30,14 +30,14 @@
     <!-- Settings main menu category heading. Rom (Launcher, Themes, System). [CHAR LIMIT=40] -->
     <string name="header_category_rom_settings">Advanced settings</string>
 
-    <!-- Slim settings screens -->
+    <!-- Evolution settings screens -->
     <string name="interface_settings_title">Interface</string>
     <string name="navigation_settings_title">Navigation</string>
     <!-- Advanced, Device specific (DeviceParts) settings  -->
     <string name="device_settings_title">Device</string>
 
-    <!-- Slim Shortcuts -->
-    <string name="slim_shortcut_picker">Slim Actions</string>
+    <!-- Evolution Shortcuts -->
+    <string name="slim_shortcut_picker">Evolution Actions</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
@@ -48,7 +48,7 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
 
-    <!-- About phone screen, slim version -->
+    <!-- About phone screen, evolution version -->
     <string name="slim_version_title">Evolution version</string>
     <string name="slim_version_default">Unknown</string>
 
